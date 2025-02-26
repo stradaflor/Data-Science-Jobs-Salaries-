@@ -12,9 +12,6 @@ Thumbs.db
 # Archivos de configuración personal
 *.log
 *.csv
-*.jpeg
-*.png
-*.pdf
 .vscode/
 .idea/
 
