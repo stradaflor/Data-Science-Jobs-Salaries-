@@ -10,7 +10,7 @@ options(scipen = 999)
 getwd()
 
 # Import dataset
-salaries <- read_excel("/Users/florenciastrada/Desktop/MAESTRIA DE DATOS/2.TALLER PYTHON/TRABAJO 1/TPE1_STRADA/DatosTPE1_STRADA.xlsx")
+salaries <- read_excel("WRITE_YOUR_PATH")
 View(salaries)
 
 # Filter only records where the currency is USD (to ensure comparability)
