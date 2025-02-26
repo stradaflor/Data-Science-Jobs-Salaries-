@@ -2,7 +2,7 @@
 
 ![Distribución de salarios](salary_distribution.png)
 
-## 📌 Descripción
+## 📌 Description
 ### Context
 
 The **data science profession** has experienced significant growth since 2019, with an increasing number of people entering the field. This study explores three key questions: **What does a data scientist do? Are there different types of roles within data science? Why is it in such high demand?**
@@ -22,9 +22,9 @@ A data scientist's role centers on **collecting, processing, and transforming la
 
 This study will **analyze salaries in USD over two consecutive years**, investigate the **different roles in the industry**, and assess the **global impact** of this innovative profession.
 
-## 📦 Tecnologías utilizadas
-- Lenguaje: ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-- Librerías:
+## 📦 Technologies Used
+- Language: ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+- Libraries:
   - `ggplot2` → Para visualización de datos 📊
   - `dplyr` → Para manipulación de datos 🔄
   - `readxl` → Para importar archivos Excel 📂
