@@ -25,8 +25,8 @@ This study will **analyze salaries in USD over two consecutive years**, investig
 ## 📦 Technologies Used
 - Language: ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 - Libraries:
-  - `ggplot2` → Para visualización de datos 📊
-  - `dplyr` → Para manipulación de datos 🔄
-  - `readxl` → Para importar archivos Excel 📂
-  - `pastecs` → Para estadísticas descriptivas 📈
+  - `ggplot2` → For data visualization 📊
+  - `dplyr` → For data manipulation 🔄
+  - `readxl` → To import Excel files 📂
+  - `pastecs` → For descriptive statistics 📈
 
